@@ -1,0 +1,6 @@
+jobname: scf_basic
+functional: PBE
+ecut: 60
+kpoints: [6, 6, 6]
+smearing: gaussian
+smearing_width: 0.01
