@@ -1,0 +1,5 @@
+jobname: relax
+functional: PE
+ecut: 500
+kpoints: [4, 4, 4]
+smearing_width: 0.05
